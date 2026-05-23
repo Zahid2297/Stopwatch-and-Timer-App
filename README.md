@@ -1,6 +1,6 @@
 # ⏱ Timer App
 
-A sleek, dark-themed **Stopwatch + Countdown Timer** built with React. Features a glowing ring progress indicator, lap tracking, and smooth animations — all in a single component file with zero external state libraries.
+A sleek, dark-themed **Stopwatch + Countdown Timer** built with React. Features a glowing ring progress indicator, lap tracking, and smooth animations all in a single component file with zero external state libraries.
 
 ![Timer App Preview](preview/lap.png)
 ![Timer App Preview](preview/stopwatch.png)
@@ -20,7 +20,7 @@ A sleek, dark-themed **Stopwatch + Countdown Timer** built with React. Features 
 
 ### Countdown Timer
 - Set hours, minutes, and seconds via **click-and-hold** or **scroll wheel**
-- Quick-add buttons: **+30s**, **+1m**, **+5m** while running
+- Quick add buttons: **+30s**, **+1m**, **+5m** while running
 - Ring drains as time counts down
 - Turns **red** in the final 10 seconds
 - Shows a ✓ **DONE** state when complete
