@@ -58,31 +58,6 @@ npm run build
 
 ---
 
-## 🗂 Project Structure
-
-```
-src/
-├── App.jsx        # All components: Ring, Btn, LapRow, TimeInput, Stopwatch, Timer, App
-├── main.jsx       # React DOM entry point
-index.html         # Loads fonts (Orbitron, DM Sans) + Tabler Icons
-```
-
----
-
-## 🛠 Tech Stack
-
-| Tool | Purpose |
-|------|---------|
-| [React](https://react.dev) | UI framework |
-| [Vite](https://vitejs.dev) | Dev server & bundler |
-| [Orbitron](https://fonts.google.com/specimen/Orbitron) | Numeric display font |
-| [DM Sans](https://fonts.google.com/specimen/DM+Sans) | UI sans-serif font |
-| [Tabler Icons](https://tabler.io/icons) | Icon set (webfont) |
-
-No additional runtime dependencies — pure React hooks (`useState`, `useEffect`, `useRef`, `useCallback`) and `requestAnimationFrame` for smooth timing.
-
----
-
 ## ⌨️ Controls
 
 | Action | How |
@@ -92,9 +67,3 @@ No additional runtime dependencies — pure React hooks (`useState`, `useEffect`
 | Reset | Click **Reset** |
 | Change timer value | Click ▲ / ▼ arrows or scroll the mouse wheel over a digit |
 | Add time while running | Click **+30s**, **+1m**, or **+5m** |
-
----
-
-## 📄 License
-
-MIT — free to use, fork, and modify.
