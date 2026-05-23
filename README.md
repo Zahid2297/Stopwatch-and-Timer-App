@@ -33,30 +33,6 @@ A sleek, dark-themed **Stopwatch + Countdown Timer** built with React. Features 
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js ≥ 18
-- npm or yarn
-
-### Install & Run
-
-```bash
-git clone https://github.com/your-username/timer-app.git
-cd timer-app
-npm install
-npm run dev
-```
-
-Then open [http://localhost:5173](http://localhost:5173) in your browser.
-
-### Build for Production
-
-```bash
-npm run build
-```
-
----
 
 ## ⌨️ Controls
 
